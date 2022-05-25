@@ -8,14 +8,14 @@ Aplicación en node que realiza consultas a postgreSQL a través del paquete 'pg
 - Eliminar el registro de un estudiante.
 
 
-### Materia aplicada 	:musical_note:
+### Materia aplicada 	
 
 - Instalación y configuración de la librería pg
 - Propiedades del objeto result y la asincronía en una  consulta
 - Ingresando y consultando datos
 - Actualizando y eliminado datos
 - 
-### Comandos :notes:
+### Comandos
 
 - `npm init`
 - `npm i pg`
